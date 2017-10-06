@@ -9,7 +9,7 @@
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "dependencies": {
-    "vuex": "^2.3.1"
+    "vuex": "vuejs/vuex#adapt-new-typings"
   },
   "devDependencies": {
     "@types/chai": "^3.4.35",
@@ -21,7 +21,7 @@
     "nyc": "^10.1.2",
     "rimraf": "^2.6.1",
     "typescript": "^2.2.1",
-    "vue": "^2.3.0"
+    "vue": "HerringtonDarkholme/vue#6091248c0edf7c19d594f4122057848496852856"
   },
   "repository": {
     "type": "git",
