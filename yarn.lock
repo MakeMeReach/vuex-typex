@@ -1201,9 +1201,9 @@ vue@HerringtonDarkholme/vue#6091248c0edf7c19d594f4122057848496852856:
   version "2.4.4"
   resolved "https://codeload.github.com/HerringtonDarkholme/vue/tar.gz/6091248c0edf7c19d594f4122057848496852856"
 
-vuex@vuejs/vuex#adapt-new-typings:
-  version "2.4.0"
-  resolved "https://codeload.github.com/vuejs/vuex/tar.gz/45f091a37e49010a7c1a36b6b344674aa3ab01ba"
+vuex@^3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/vuex/-/vuex-3.0.0.tgz#98b4b5c4954b1c1c1f5b29fa0476a23580315814"
 
 which-module@^1.0.0:
   version "1.0.0"
